@@ -24,7 +24,7 @@ A tool translate apk file to common android project and support so hook and incl
 - 例：```java -jar FakerAndroid.jar fk D:\apk\test.apk``` 或 ```java -jar FakerAndroid.jar fk D:\apk\test.apk -o D:\test```
 ### 或者使用方式
 - 下载[FakerAndroid-AS.zip](https://github.com/Efaker/FakerAndroid/releases)(2020/11/15/16:53:00)
-- AS->File-Settings->Plugin->SettingIcon->InstallPlugin Plugin From Disk->重启AndroidStudio
+- AS->File-Settings->Plugin->SettingIcon->InstallPlugin Plugin From Disk(选择FakerAndroid-AS.zip-安装-启用)->重启AndroidStudio
 - AS->File->FakerAndroid->选择目标Apk文件
 
 ### 生成的Android项目二次开发教程(<a href="https://www.52pojie.cn/forum.php?mod=viewthread&tid=1293297" target="_blank">图文教程</a>)
