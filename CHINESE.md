@@ -71,7 +71,7 @@ resources.arsc decode 兼容，目前混淆某些大型 apk Res decoder有问题
 ## 实例
 - 一夜之间来了这么多的star好慌张，全是问怎么用的，请原谅我只会写代码不会写文档啊！！！  
 - 因为是il2cpp 游戏apk，里面包含了原游戏安装包和生成的代码项目所以比较大，下载的话得时间稍微长一点，如果github实在下不下来的话，直接QQ我索要
-- [实例下载地址](https://github.com/Efaker/FakerAndroid-Demos/releases/tag/BasicDemo1)
+- [实例下载地址](https://github.com/Efaker/FakerAndroid-Demos/releases/)
 
 
 
