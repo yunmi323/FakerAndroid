@@ -1,6 +1,6 @@
 # FakerAndroid ([FakerAndroid.jar or FakerAndroid-AS](https://github.com/Efaker/FakerAndroid/releases))
 
-# FakerAndroid ([中文文档](https://github.com/Efaker/FakerAndroid/blob/main/CHINESE.md))
+
 A tool translate a apk file to stantard android project include so hook api and il2cpp c++ scaffolding when apk is a unity il2cpp game.
 ## Summary
 - Write code on a apk file elegantly.
@@ -12,7 +12,6 @@ A tool translate a apk file to stantard android project include so hook api and 
 - Hook Api offered for hooking .so method 
 - When apk is a il2cpp game il2cpp c++ scaffoding generated
 - Back compilation voluntary when there is a modification of smali files(AndroidStudio project file tree model)
-- Code hints base original java api
 - Unlimited possibilities and expansibility. You has the final say
 ### Environment
 - Java
@@ -48,14 +47,10 @@ A tool translate a apk file to stantard android project include so hook api and 
   With the help of fakeCpp api use jni hook the so method
 - Il2cpp unity script development  
   With the help of il2cpp Scaffolding and fakeCpp api,use jni have a modification of il2cpp game script
-##### 4、Feature on the way
-  resources.arsc decode format compat 
-##### 5、Issues
+
+##### 4、Issues
 - [Issues](https://github.com/Efaker/FakerAndroid/issues)
-- Custom version QQ 1404774249
-##### 6、Give me a star?free!           
-## Demo 
-- [Demo Download](https://github.com/Efaker/FakerAndroid-Demos/releases/tag/BasicDemo1)
+
 
 
 
