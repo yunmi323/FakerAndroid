@@ -2,8 +2,8 @@ plugins {
     id 'java'
 }
 apply plugin: 'com.github.johnrengelman.shadow'
-group 'faker.android'
-version '1.0-SNAPSHOT'
+group 'com.faker.android'
+version '1.0.31'
 repositories {
     google()
     jcenter()
