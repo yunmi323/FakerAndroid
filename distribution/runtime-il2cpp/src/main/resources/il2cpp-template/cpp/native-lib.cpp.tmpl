@@ -110,7 +110,7 @@ Java_com_fakerandroid_boot_FakerApp_fakeApp(JNIEnv *env, jobject thiz, jobject a
      * below  is demo code demo code hook libil2cpp.so
      */
     long base = baseImageAddr("libil2cpp.so");
-    LOGE("baseIamgeAddr : %ld",base);
+    LOGE("baseImageAddr : %ld",base);
     init_il2cpp(base);
     //fakeCpp((void *) Behaviour_get_isActiveAndEnabled, (void *)HookedBehaviour_get_isActiveAndEnabled ,reinterpret_cast<void **>(&Behaviour_get_isActiveAndEnabled));
 }
